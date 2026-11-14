@@ -28,3 +28,11 @@ I wanted to find funds in corners of the market I already follow, especially com
 I wanted my own system for keeping track of university work, projects and everything else. The planners I found felt like another commitment, so naturally I added “build a planner” to the list. Each commitment has its own tasks, deadlines and priorities, and an urgent view pulls together what needs attention across projects. It's built with React and Vite and saves everything in the browser.
 
 **Stack** · React, JavaScript, Vite
+
+## Team projects
+
+### Breeze Access
+
+I worked on the UI for a tool designed to help people with learning disabilities follow church services.
+
+[Project mention](https://wisevoter.com/world/2026/10/09/breeze-translate-app-global-church-access)
