@@ -1,18 +1,18 @@
-# Hi, I'm a student who builds things
+# A student who builds things
 
-I'm interested in geopolitics, defence technology, commodity markets and military history. I also cook, which is where I'm most likely to review the evidence and conclude that the oven was at fault.
+I'm interested in geopolitics, defence technology, commodity markets and military history. I also cook, which is where I'm most likely to review the evidence and conclude that the oven was at fault!
 
 ## Things I've built
 
 ### Ember & Larder
 
-I built a kitchen app that keeps track of what's in the fridge, freezer and pantry, who it belongs to, and what needs buying. It has shared and personal shopping lists, plus a cooking notebook for recipes and experiments. The freezer now has a paper trail.
+I built a kitchen app that keeps track of what's in the fridge, freezer and pantry, who it belongs to, and what needs buying. It has shared and personal shopping lists, plus a cooking notebook for recipes and experiments. well I guess the freezer now has a paper trail LOL
 
 **Stack** · TypeScript, React, Vinext/Vite, Cloudflare Workers, D1 (SQLite), R2, Drizzle
 
 ### StudyDesk
 
-A native macOS app I built for university deadlines and personal projects. It gives me a board and calendar for tasks, breaks assessments into subtasks and creates the next weekly prep task when I finish the current one. A surprisingly efficient way of being reminded that there is, in fact, another week.
+A native macOS app I built for university deadlines and personal projects. It gives me a board and calendar for tasks, breaks assessments into subtasks and creates the next weekly prep task when I finish the current one. A surprisingly efficient way of being reminded that there is, in fact, another week haha. This was built off the idea of the older Commitment Tracker
 
 **Stack** · Swift, SwiftUI, AppKit, local JSON storage
 
