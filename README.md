@@ -1,10 +1,13 @@
-# Projects
+# Hi, I'm a student who builds things
 
-I build tools for organising study, managing everyday tasks and exploring research ideas.
+I'm interested in geopolitics, defence technology, commodity markets and military history. I also cook, which is where I'm most likely to review the evidence and conclude that the oven was at fault.
 
-| Project | What it does | Stack |
-| --- | --- | --- |
-| [Commitment Tracker](https://github.com/nmwjs98h9j-bit/commitment-tracker) | A browser-based planner with task priorities, deadlines and an urgent-task view | React, JavaScript, Vite |
-| [Fund Radar](https://github.com/nmwjs98h9j-bit/fund-radar) | A research dashboard combining sample fund records with public-source collection | Python, Flask, JavaScript |
+## Things I've built
 
-The Fund Radar repositories named `take5` and `hopefully` are earlier backend snapshots. `fund-radar` contains the dashboard and current source layout.
+### [Fund Radar](https://github.com/nmwjs98h9j-bit/fund-radar)
+
+I wanted to find funds in corners of the market I already follow, especially commodities and managed futures. The information was scattered across filings, regulator websites and news feeds, so I built a Flask dashboard to pull those leads into one place. It ships with sample records and can refresh from public sources. A lead is somewhere to start digging. Finding it in a dashboard does very little to improve its credibility.
+
+### [Commitment Tracker](https://github.com/nmwjs98h9j-bit/commitment-tracker)
+
+I wanted my own system for keeping track of university work, projects and everything else. The planners I found felt like another commitment, so naturally I added “build a planner” to the list. Each commitment has its own tasks, deadlines and priorities, and an urgent view pulls together what needs attention across projects. It's built with React and Vite and saves everything in the browser.
